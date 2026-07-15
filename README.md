@@ -9,7 +9,7 @@
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Suspicious Logon)](https://github.com/angcra05/Threat-Hunting-SuspiciousLogon)**
 
 <hr/>
 
