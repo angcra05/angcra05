@@ -7,7 +7,7 @@
 - **[Threat Hunting Scenario (Suspicious Logon)](https://github.com/angcra05/Threat-Hunting-SuspiciousLogon)**
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/angcra05/Vulnerability_Management/edit/main/README.md)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 <hr/>
