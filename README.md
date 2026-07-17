@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angel! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/angelcabrerajr">College Graduate</a>, <a href="https://www.youtube.com/c/joshmadakor">Tech Specialist</a></h1>
+<h1>Hi, I'm Angel! <br/><a href="">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/angelcabrerajr">College Graduate</a>, <a href="">Tech Specialist</a></h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
