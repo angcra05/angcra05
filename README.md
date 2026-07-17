@@ -5,6 +5,7 @@
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Suspicious Logon)](https://github.com/angcra05/Threat-Hunting-SuspiciousLogon)**
+- **[Threat Hunting Scenario (Suspicious Logon)](https://github.com/angcra05/Threat-Hunting-SuspiciousLogon)**
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/angcra05/Vulnerability_Management/edit/main/README.md)**
