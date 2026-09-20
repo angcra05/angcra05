@@ -22,7 +22,7 @@
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/___________
-[youtube]: www.youtube.com/@AngelCabrerajr
+[youtube]: https://www.youtube.com/@AngelCabrerajr
 [instagram]: https://www.instagram.com/___________
 [linkedin]: https://linkedin.com/in/angelcabrerajr
 
