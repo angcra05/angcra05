@@ -1,4 +1,4 @@
-<h1>Hi, I'm Angel! <br/><a href="">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/angelcabrerajr">College Graduate</a>, <a href="">Tech Specialist</a></h1>
+<h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angelcabrerajr">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/angelcabrerajr">College Graduate</a>, <a href="https://www.youtube.com/@AngelCabrerajr">Tech Specialist</a></h1>
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
 
@@ -11,6 +11,20 @@
 
 - **[Vulnerability Management Program Implementation](https://github.com/angcra05/Vulnerability_Management/edit/main/README.md)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/angcra05/Vulnerability_Management_Remediation/tree/main)**
+
+## 📏 STIG Implementations
+
+- **[STIG #1 WN11-00-000050](https://github.com/angcra05/Vulnerability_Management/edit/main/README.md)**
+- **[STIG #2 WN11-00-000050]()**
+- **[STIG #3 WN11-00-000050]()**
+- **[STIG #4 WN11-00-000050]()**
+- **[STIG #5 WN11-00-000050]()**
+- **[STIG #6 WN11-00-000050]()**
+- **[STIG #7 WN11-00-000050]()**
+- **[STIG #8 WN11-00-000050]()**
+- **[STIG #9 WN11-00-000050]()**
+- **[STIG #10 WN11-00-000050]()**
+ 
 
 <hr/>
 
