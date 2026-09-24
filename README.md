@@ -15,7 +15,7 @@
 ## 📏 STIG Implementations
 
 - **[STIG #1 WN11-00-000050](https://github.com/angcra05/Vulnerability_Management/edit/main/README.md)**
-- **[STIG #2 WN11-00-000050]()**
+- **[STIG #2 WN11-00-000050](https://github.com/angcra05/STIGS)**
 - **[STIG #3 WN11-00-000050]()**
 - **[STIG #4 WN11-00-000050]()**
 - **[STIG #5 WN11-00-000050]()**
