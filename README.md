@@ -16,7 +16,7 @@
 
 - **[STIG #1 WN11-00-000050](https://github.com/angcra05/Vulnerability_Management/edit/main/README.md)**
 - **[STIG #2 WN11-00-000050](https://github.com/angcra05/STIGS)**
-- **[STIG #3 WN11-00-000050]()**
+- **[STIG #3 WN11-00-000050](https://github.com/angcra05/STIGS/blob/main/2-remediation-WN11-CC-000110.ps1)**
 - **[STIG #4 WN11-00-000050]()**
 - **[STIG #5 WN11-00-000050]()**
 - **[STIG #6 WN11-00-000050]()**
