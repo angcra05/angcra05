@@ -6,7 +6,7 @@
 
 - **[Threat Hunting Scenario (Suspicious Logon)](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon)**
 - **[Threat Hunting Scenario (Portscan discovery)](https://github.com/angcra05/Threat-Hunt-portscan-detection/tree/main/threat-hunt-portscan-detection/threat-hunt-portscan-detection)**
-- **[Threat Hunting Scenario (Meridian)](https://github.com/angcra05/Threat-Hunt-portscan-detection/tree/main/threat-hunt-portscan-detection/threat-hunt-portscan-detection)**
+- **[Threat Hunting Scenario (Meridian)]([https://github.com/angcra05/Threat-Hunt-portscan-detection/tree/main/threat-hunt-portscan-detection/threat-hunt-portscan-detection](https://github.com/angcra05/Meridian))**
   
 ## ⚠️ Vulnerability Management Projects
 
