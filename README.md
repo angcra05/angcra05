@@ -6,11 +6,10 @@
 
 - **[Threat Hunting Scenario (Suspicious Logon)](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon)**
 - **[Threat Hunting Scenario (Portscan discovery)](https://github.com/angcra05/Threat-Hunt-portscan-detection/tree/main/threat-hunt-portscan-detection/threat-hunt-portscan-detection)**
+- **[Threat Hunting Scenario (Meridian)](https://github.com/angcra05/Threat-Hunt-portscan-detection/tree/main/threat-hunt-portscan-detection/threat-hunt-portscan-detection)**
   
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/angcra05/Vulnerability_Management/edit/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/angcra05/Vulnerability_Management_Remediation/tree/main)**
 
 ## 📏 STIG Implementations
 
