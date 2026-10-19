@@ -1,35 +1,31 @@
-<h1>Hi, I'm Angel! <br/><a href="https://www.linkedin.com/in/angelcabrerajr">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/angelcabrerajr">College Graduate</a>, <a href="https://www.youtube.com/@AngelCabrerajr">Tech Specialist</a></h1>
+<div align="center">
 
-<h2>👨‍💻Cybersecurity Projects:</h2>
+# Hi, I'm Angel Cabrera Jr.
 
-## 🚨 Threat Hunting and Security Operations
+**Cybersecurity · Threat Hunting · Vulnerability Management**
 
-- **[Threat Hunting Scenario (Suspicious Logon)](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon)**
-- **[Threat Hunting Scenario (Portscan discovery)](https://github.com/angcra05/Threat-Hunt-portscan-detection/tree/main/threat-hunt-portscan-detection/threat-hunt-portscan-detection)**
-- **[Threat Hunting Scenario (Meridian)](https://github.com/angcra05/Meridian)**
-  
-## ⚠️ Vulnerability Management Projects
+I document hands-on security projects with the investigation path, supporting evidence, and honest limits of each result.
 
+[LinkedIn](https://www.linkedin.com/in/angelcabrerajr) · [YouTube](https://www.youtube.com/@AngelCabrerajr)
 
-## 📏 STIG Implementations
+</div>
 
-- **[STIG](https://github.com/angcra05/STIGS)**
+## Featured work
 
+| Project | What to explore |
+| --- | --- |
+| **[Azure vulnerability management](https://github.com/angcra05/Vulnerability_Management)** | Windows Server 2025 lab using Azure, Tenable, and PowerShell. Seven scans document six remediation stages and a reduction from **45 to 25** non-informational findings. The case study includes the reports and the 25 remaining findings. |
+| **[Suspicious logon threat hunt](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon)** | Investigation project with a documented suspicious logon scenario. |
+| **[Port scan detection hunt](https://github.com/angcra05/Threat-Hunt-portscan-detection)** | A separate detection and investigation scenario. |
+| **[Meridian threat hunt](https://github.com/angcra05/Meridian)** | Another security investigation project. |
+| **[STIG implementations](https://github.com/angcra05/STIGS)** | Windows security configuration work. |
 
-<hr/>
+## How I work
 
-## 🤳 Connect With Me
+I am building practical skills in security operations, Microsoft security tooling, KQL, and vulnerability assessment. In my project write-ups, I connect a finding to the evidence, document the change, and verify the outcome. I also call out unresolved findings and what I would investigate next.
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+The vulnerability management work is a guided lab. I followed the [Cyber Range project guide](https://github.com/joshcybertest/vulnerability-management-program) and used my own VM, scan reports, and remediation documentation for the results in my repository.
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/@AngelCabrerajr
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/angelcabrerajr
+## Let's connect
 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+I am interested in cybersecurity opportunities involving investigation, alert triage, vulnerability management, and remediation validation. Recruiters and security teams can reach me through [LinkedIn](https://www.linkedin.com/in/angelcabrerajr).
