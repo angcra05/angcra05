@@ -10,6 +10,18 @@ I document hands-on security projects with the investigation path, supporting ev
 
 </div>
 
+## Featured investigation — Operation ECHOLEAK
+
+### [Microsoft 365 Copilot Threat Hunt: Indirect Prompt Injection](https://github.com/angcra05/angcra05/tree/main/Operation-ECHOLEAK-Threat-Hunt)
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft-Defender-0078D4?style=flat-square) ![KQL](https://img.shields.io/badge/Language-KQL-4C51BF?style=flat-square) ![Threat Hunting](https://img.shields.io/badge/Focus-Threat%20Hunting-137C73?style=flat-square) ![Lab](https://img.shields.io/badge/Environment-Simulated-444?style=flat-square)
+
+Investigated a simulated Microsoft 365 Copilot prompt-injection incident using KQL, Copilot audit activity and Microsoft 365 file-access logs. Correlated abnormal Graph file searches with **13 sensitive-file accesses**, investigated suspicious image URLs and compared activity with a normal Copilot baseline. Includes investigation findings and evidence limitations.
+
+**[View ECHOLEAK case study →](https://github.com/angcra05/angcra05/tree/main/Operation-ECHOLEAK-Threat-Hunt)**
+
+---
+
 ## Featured work
 
 | Project | What to explore |
