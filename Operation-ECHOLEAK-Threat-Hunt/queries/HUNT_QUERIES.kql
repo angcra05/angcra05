@@ -1,0 +1,16 @@
+// Operation ECHOLEAK — KQL reference, adapted from analyst screenshots
+// Run these examples separately; not newly executed for publication.
+
+// Copilot file search/read activity
+CopilotAudit_CL
+| where RunId == "el--17-20260920"
+| where UserId == "emily.chen@cormorantcapital.com"
+| where InteractionType == "ToolCall"
+| project TimeGenerated, ToolName, ToolParameters, SensitivityLabels
+| order by TimeGenerated asc
+
+// Other useful pivots from the investigation:
+// OfficeActivity_CL: Operation == "MessageReceived"
+// OfficeActivity_CL: Operation == "FileAccessed"
+// CopilotAudit_CL: CopilotResponse contains "metrics-cdn.analyticshub.io"
+// CopilotAudit_CL: summarize count() by ToolName
