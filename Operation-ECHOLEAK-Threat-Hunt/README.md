@@ -11,6 +11,8 @@
 ![Query Language](https://img.shields.io/badge/Language-KQL-3949ab?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Security-6f42c1?style=flat-square)
 
+### ▶️ [Watch the ECHOLEAK video on YouTube](https://youtu.be/OX6aY0ite0k)
+
 **[Investigation report](docs/CASE_STUDY.md) · [Full screenshot walkthrough](#investigation-walkthrough--evidence-in-scroll-order) · [Hunting queries](queries/HUNT_QUERIES.kql) · [Indicators & mapping](#indicators-and-investigative-pivots--12-case-file-entries)**
 
 </div>
