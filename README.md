@@ -10,6 +10,16 @@ I document hands-on security projects with the investigation path, supporting ev
 
 </div>
 
+## Featured work
+
+| Project | What to explore |
+| --- | --- |
+| **[Azure vulnerability management](https://github.com/angcra05/Vulnerability_Management)** | Windows Server 2025 lab using Azure, Tenable, and PowerShell. Seven scans document six remediation stages and a reduction from **45 to 25** non-informational findings. The case study includes the reports and the 25 remaining findings. |
+| **[Suspicious logon threat hunt](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon)** | Investigation project with a documented suspicious logon scenario. |
+| **[Port scan detection hunt](https://github.com/angcra05/Threat-Hunt-portscan-detection)** | A separate detection and investigation scenario. |
+| **[Meridian threat hunt](https://github.com/angcra05/Meridian)** | Another security investigation project. |
+| **[STIG implementations](https://github.com/angcra05/STIGS)** | Windows security configuration work. |
+
 ## Featured investigation — Operation ECHOLEAK
 
 ### [Microsoft 365 Copilot Threat Hunt: Indirect Prompt Injection](https://github.com/angcra05/angcra05/tree/main/Operation-ECHOLEAK-Threat-Hunt)
@@ -21,16 +31,6 @@ Investigated a simulated Microsoft 365 Copilot prompt-injection incident using K
 **[View ECHOLEAK case study →](https://github.com/angcra05/angcra05/tree/main/Operation-ECHOLEAK-Threat-Hunt)**
 
 ---
-
-## Featured work
-
-| Project | What to explore |
-| --- | --- |
-| **[Azure vulnerability management](https://github.com/angcra05/Vulnerability_Management)** | Windows Server 2025 lab using Azure, Tenable, and PowerShell. Seven scans document six remediation stages and a reduction from **45 to 25** non-informational findings. The case study includes the reports and the 25 remaining findings. |
-| **[Suspicious logon threat hunt](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon)** | Investigation project with a documented suspicious logon scenario. |
-| **[Port scan detection hunt](https://github.com/angcra05/Threat-Hunt-portscan-detection)** | A separate detection and investigation scenario. |
-| **[Meridian threat hunt](https://github.com/angcra05/Meridian)** | Another security investigation project. |
-| **[STIG implementations](https://github.com/angcra05/STIGS)** | Windows security configuration work. |
 
 ## How I work
 
