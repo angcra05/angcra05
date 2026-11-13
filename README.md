@@ -41,3 +41,14 @@ The vulnerability management work is a guided lab. I followed the [Cyber Range p
 ## Let's connect
 
 I am interested in cybersecurity opportunities involving investigation, alert triage, vulnerability management, and remediation validation. Recruiters and security teams can reach me through [LinkedIn](https://www.linkedin.com/in/angelcabrerajr).
+
+## Technical write-ups
+
+- [Azure Windows Server case study](https://github.com/angcra05/Vulnerability_Management/blob/main/docs/case-study.md) — scope, baseline, remediation, and lessons.
+- [Remediation record](https://github.com/angcra05/Vulnerability_Management/blob/main/docs/remediation-record.md) — six stages tied to supporting scan evidence.
+- [Results and measurement](https://github.com/angcra05/Vulnerability_Management/blob/main/docs/results.md) — calculation methods and interpretation limits.
+- [NPT-WS01 investigation report](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon/blob/main/threat-hunt-portfolio1/docs/investigation-report.md) — training-scenario findings and scope.
+
+## Portfolio site source
+
+The [portfolio page](docs/index.html) brings the projects and write-ups together with an original lab screenshot. GitHub Pages deployment is configured separately from these source files.
