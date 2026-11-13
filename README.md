@@ -14,23 +14,12 @@ I document hands-on security projects with the investigation path, supporting ev
 
 | Project | What to explore |
 | --- | --- |
+| **[Microsoft 365 Copilot threat hunt — ECHOLEAK](https://github.com/angcra05/Operation-ECHOLEAK-Threat-Hunt)** | Simulated indirect prompt-injection investigation with KQL queries, 16 evidence screenshots, and documented limitations. |
 | **[Azure vulnerability management](https://github.com/angcra05/Vulnerability_Management)** | Windows Server 2025 lab using Azure, Tenable, and PowerShell. Seven scans document six remediation stages and a reduction from **45 to 25** non-informational findings. The case study includes the reports and the 25 remaining findings. |
 | **[Suspicious logon threat hunt](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon)** | Investigation project with a documented suspicious logon scenario. |
 | **[Port scan detection hunt](https://github.com/angcra05/Threat-Hunt-portscan-detection)** | A separate detection and investigation scenario. |
 | **[Meridian threat hunt](https://github.com/angcra05/Meridian)** | Another security investigation project. |
 | **[STIG implementations](https://github.com/angcra05/STIGS)** | Windows security configuration work. |
-
-## Featured investigation — Operation ECHOLEAK
-
-### [Microsoft 365 Copilot Threat Hunt: Indirect Prompt Injection](https://github.com/angcra05/angcra05/tree/main/Operation-ECHOLEAK-Threat-Hunt)
-
-![Microsoft Defender](https://img.shields.io/badge/Microsoft-Defender-0078D4?style=flat-square) ![KQL](https://img.shields.io/badge/Language-KQL-4C51BF?style=flat-square) ![Threat Hunting](https://img.shields.io/badge/Focus-Threat%20Hunting-137C73?style=flat-square) ![Lab](https://img.shields.io/badge/Environment-Simulated-444?style=flat-square)
-
-Investigated a simulated Microsoft 365 Copilot prompt-injection incident using KQL, Copilot audit activity and Microsoft 365 file-access logs. Correlated abnormal Graph file searches with **13 sensitive-file accesses**, investigated suspicious image URLs and compared activity with a normal Copilot baseline. Includes investigation findings and evidence limitations.
-
-**[View ECHOLEAK case study →](https://github.com/angcra05/angcra05/tree/main/Operation-ECHOLEAK-Threat-Hunt)**
-
----
 
 ## How I work
 
@@ -49,6 +38,6 @@ I am interested in cybersecurity opportunities involving investigation, alert tr
 - [Results and measurement](https://github.com/angcra05/Vulnerability_Management/blob/main/docs/results.md) — calculation methods and interpretation limits.
 - [NPT-WS01 investigation report](https://github.com/angcra05/Threat-Hunt-Scenrio-SuspiciousLogon/blob/main/threat-hunt-portfolio1/docs/investigation-report.md) — training-scenario findings and scope.
 
-## Portfolio site source
+## Portfolio website
 
-The [portfolio page](docs/index.html) brings the projects and write-ups together with an original lab screenshot. GitHub Pages deployment is configured separately from these source files.
+[Explore my cybersecurity portfolio](https://angcra05.github.io/) · [Website source](https://github.com/angcra05/angcra05.github.io)
